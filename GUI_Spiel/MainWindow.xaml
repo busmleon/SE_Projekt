@@ -1,0 +1,275 @@
+﻿<Window x:Class="GUI_Spiel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI_Spiel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="750" Width="1045.5" Background="#FFECE6CE">
+    <Grid Cursor="Hand">
+        <!--Start: unten-->
+
+        <Ellipse x:Name="e01" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="277,644,0,0" Stroke="Yellow" VerticalAlignment="Top" Width="58" StrokeThickness="4"/>
+        <Button x:Name="btn_e01" Content="Button" HorizontalAlignment="Left" Margin="277,644,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e01_Click"/>
+
+        <Ellipse x:Name="e02" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="277,582,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e02" Content="Button" HorizontalAlignment="Left" Margin="277,582,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e02_Click"/>
+
+        <Ellipse x:Name="e03" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="277,520,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e03" Content="Button" HorizontalAlignment="Left" Margin="277,520,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e03_Click"/>
+
+        <Ellipse x:Name="e04" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="277,458,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e04" Content="Button" HorizontalAlignment="Left" Margin="277,458,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e04_Click"/>
+
+        <Ellipse x:Name="e05" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="277,395,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e05" Content="Button" HorizontalAlignment="Left" Margin="277,395,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e05_Click"/>
+
+        <Ellipse x:Name="e06" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="214,395,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e06" Content="Button" HorizontalAlignment="Left" Margin="214,395,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e06_Click"/>
+
+        <Ellipse x:Name="e07" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="150,395,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e07" Content="Button" HorizontalAlignment="Left" Margin="150,395,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e07_Click"/>
+
+        <Ellipse x:Name="e08" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="85,395,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e08" Content="Button" HorizontalAlignment="Left" Margin="85,395,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e08_Click"/>
+
+        <Ellipse x:Name="e09" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="22,395,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e09" Content="Button" HorizontalAlignment="Left" Margin="22,395,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e09_Click"/>
+
+        <Ellipse x:Name="e10" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="22,333,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e10" Content="Button" HorizontalAlignment="Left" Margin="22,333,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e10_Click"/>
+
+
+        <!--Start: links-->
+
+        <Ellipse x:Name="e11" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="22,270,0,0" Stroke="#FF1BC909" VerticalAlignment="Top" Width="58" StrokeThickness="4"/>
+        <Button x:Name="btn_e11" Content="Button" HorizontalAlignment="Left" Margin="22,270,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e11_Click"/>
+
+        <Ellipse x:Name="e12" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="85,270,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e12" Content="Button" HorizontalAlignment="Left" Margin="85,270,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e12_Click"/>
+
+        <Ellipse x:Name="e13" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="150,270,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e13" Content="Button" HorizontalAlignment="Left" Margin="150,270,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e13_Click"/>
+
+        <Ellipse x:Name="e14" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="214,270,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e14" Content="Button" HorizontalAlignment="Left" Margin="214,270,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e14_Click"/>
+
+        <Ellipse x:Name="e15" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="277,270,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e15" Content="Button" HorizontalAlignment="Left" Margin="277,270,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e15_Click"/>
+
+        <Ellipse x:Name="e16" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="277,208,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e16" Content="Button" HorizontalAlignment="Left" Margin="277,208,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e16_Click"/>
+
+        <Ellipse x:Name="e17" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="277,145,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e17" Content="Button" HorizontalAlignment="Left" Margin="277,145,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e17_Click"/>
+
+        <Ellipse x:Name="e18" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="277,83,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e18" Content="Button" HorizontalAlignment="Left" Margin="277,83,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e18_Click"/>
+
+        <Ellipse x:Name="e19" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="277,21,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e19" Content="Button" HorizontalAlignment="Left" Margin="277,21,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e19_Click"/>
+
+        <Ellipse x:Name="e20" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="342,21,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e20" Content="Button" HorizontalAlignment="Left" Margin="342,21,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e20_Click"/>
+
+
+        <!--Start: oben-->
+
+        <Ellipse x:Name="e21" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="406,21,0,0" Stroke="#FF2027B9" VerticalAlignment="Top" Width="58" StrokeThickness="4"/>
+        <Button x:Name="btn_e21" Content="Button" HorizontalAlignment="Left" Margin="406,21,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e21_Click"/>
+
+        <Ellipse x:Name="e22" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="406,83,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e22" Content="Button" HorizontalAlignment="Left" Margin="406,83,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e22_Click"/>
+
+        <Ellipse x:Name="e23" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="406,145,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e23" Content="Button" HorizontalAlignment="Left" Margin="406,145,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e23_Click"/>
+
+        <Ellipse x:Name="e24" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="406,208,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e24" Content="Button" HorizontalAlignment="Left" Margin="406,208,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e24_Click"/>
+
+        <Ellipse x:Name="e25" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="406,270,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e25" Content="Button" HorizontalAlignment="Left" Margin="406,270,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e25_Click"/>
+
+        <Ellipse x:Name="e26" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="470,270,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e26" Content="Button" HorizontalAlignment="Left" Margin="470,270,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e26_Click"/>
+
+        <Ellipse x:Name="e27" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="534,270,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e27" Content="Button" HorizontalAlignment="Left" Margin="534,270,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e27_Click"/>
+
+        <Ellipse x:Name="e28" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="599,270,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e28" Content="Button" HorizontalAlignment="Left" Margin="599,270,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e28_Click"/>
+
+        <Ellipse x:Name="e29" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="663,270,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e29" Content="Button" HorizontalAlignment="Left" Margin="663,270,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e29_Click"/>
+
+        <Ellipse x:Name="e30" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="663,333,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e30" Content="Button" HorizontalAlignment="Left" Margin="663,333,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e30_Click"/>
+
+
+        <!--Start: rechts-->
+
+        <Ellipse x:Name="e31" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="663,395,0,0" Stroke="#FFF01616" VerticalAlignment="Top" Width="58" StrokeThickness="4"/>
+        <Button x:Name="btn_e31" Content="Button" HorizontalAlignment="Left" Margin="663,395,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e31_Click"/>
+
+        <Ellipse x:Name="e32" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="599,395,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e32" Content="Button" HorizontalAlignment="Left" Margin="599,395,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e32_Click"/>
+
+        <Ellipse x:Name="e33" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="534,395,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e33" Content="Button" HorizontalAlignment="Left" Margin="534,395,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e33_Click"/>
+
+        <Ellipse x:Name="e34" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="470,395,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e34" Content="Button" HorizontalAlignment="Left" Margin="470,395,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e34_Click"/>
+
+        <Ellipse x:Name="e35" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="406,395,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e35" Content="Button" HorizontalAlignment="Left" Margin="406,395,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e35_Click"/>
+
+        <Ellipse x:Name="e36" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="406,458,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e36" Content="Button" HorizontalAlignment="Left" Margin="406,458,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e36_Click"/>
+
+        <Ellipse x:Name="e37" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="406,520,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e37" Content="Button" HorizontalAlignment="Left" Margin="406,520,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e37_Click"/>
+
+        <Ellipse x:Name="e38" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="406,582,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e38" Content="Button" HorizontalAlignment="Left" Margin="406,582,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e38_Click"/>
+
+        <Ellipse x:Name="e39" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="406,644,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e39" Content="Button" HorizontalAlignment="Left" Margin="406,644,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e39_Click"/>
+
+        <Ellipse x:Name="e40" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="55" Margin="342,644,0,0" Stroke="Black" VerticalAlignment="Top" Width="58"/>
+        <Button x:Name="btn_e40" Content="Button" HorizontalAlignment="Left" Margin="342,644,0,0" VerticalAlignment="Top" Width="58" Height="55" Opacity="0" Cursor="Hand" Click="btn_e40_Click"/>
+
+
+        <!--Haus unten-->
+
+        <Ellipse x:Name="hu1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="352,593,0,0" Stroke="Yellow" VerticalAlignment="Top" Width="37"/>
+        <Button x:Name="btn_hu1" Content="Button" HorizontalAlignment="Left" Margin="352,593,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" Click="btn_hu1_Click"/>
+
+        <Ellipse x:Name="hu2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="352,531,0,0" Stroke="Yellow" VerticalAlignment="Top" Width="37" RenderTransformOrigin="0.538,-0.673"/>
+        <Button x:Name="btn_hu2" Content="Button" HorizontalAlignment="Left" Margin="352,531,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" Click="btn_hu2_Click"/>
+
+        <Ellipse x:Name="hu3" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="352,470,0,0" Stroke="Yellow" VerticalAlignment="Top" Width="37" RenderTransformOrigin="0.538,-0.673"/>
+        <Button x:Name="btn_hu3" Content="Button" HorizontalAlignment="Left" Margin="352,470,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" Click="btn_hu3_Click"/>
+
+        <Ellipse x:Name="hu4" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="352,406,0,0" Stroke="Yellow" VerticalAlignment="Top" Width="37" RenderTransformOrigin="0.538,-0.673"/>
+        <Button x:Name="btn_hu4" Content="Button" HorizontalAlignment="Left" Margin="352,406,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" Click="btn_hu4_Click"/>
+
+
+        <!--Haus links-->
+
+        <Ellipse x:Name="hl1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="96,342,0,0" Stroke="#FF1BC909" VerticalAlignment="Top" Width="37" RenderTransformOrigin="0.538,-0.673"/>
+        <Button x:Name="btn_hl1" Content="Button" HorizontalAlignment="Left" Margin="96,342,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" Click="btn_hl1_Click"/>
+
+        <Ellipse x:Name="hl2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="159,342,0,0" Stroke="#FF1BC909" VerticalAlignment="Top" Width="37" RenderTransformOrigin="0.538,-0.673"/>
+        <Button x:Name="btn_hl2" Content="Button" HorizontalAlignment="Left" Margin="159,342,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" Click="btn_hl2_Click"/>
+
+        <Ellipse x:Name="hl3" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="224,342,0,0" Stroke="#FF1BC909" VerticalAlignment="Top" Width="37" RenderTransformOrigin="0.538,-0.673"/>
+        <Button x:Name="btn_hl3" Content="Button" HorizontalAlignment="Left" Margin="224,342,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" Click="btn_hl3_Click"/>
+
+        <Ellipse x:Name="hl4" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="288,342,0,0" Stroke="#FF1BC909" VerticalAlignment="Top" Width="37" RenderTransformOrigin="0.538,-0.673"/>
+        <Button x:Name="btn_hl4" Content="Button" HorizontalAlignment="Left" Margin="288,342,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" Click="btn_hl4_Click"/>
+
+
+        <!--Haus oben-->
+
+        <Ellipse x:Name="ho1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="352,93,0,0" Stroke="#FF2027B9" VerticalAlignment="Top" Width="37"/>
+        <Button x:Name="btn_ho1" Content="Button" HorizontalAlignment="Left" Margin="352,93,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" Click="btn_ho1_Click"/>
+
+        <Ellipse x:Name="ho2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="352,154,0,0" Stroke="#FF2027B9" VerticalAlignment="Top" Width="37" RenderTransformOrigin="0.538,-0.673"/>
+        <Button x:Name="btn_ho2" Content="Button" HorizontalAlignment="Left" Margin="352,154,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" Click="btn_ho2_Click"/>
+
+        <Ellipse x:Name="ho3" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="352,218,0,0" Stroke="#FF2027B9" VerticalAlignment="Top" Width="37" RenderTransformOrigin="0.538,-0.673"/>
+        <Button x:Name="btn_ho3" Content="Button" HorizontalAlignment="Left" Margin="352,218,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" Click="btn_ho3_Click"/>
+
+        <Ellipse x:Name="ho4" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="352,282,0,0" Stroke="#FF2027B9" VerticalAlignment="Top" Width="37" RenderTransformOrigin="0.538,-0.673"/>
+        <Button x:Name="btn_ho4" Content="Button" HorizontalAlignment="Left" Margin="352,282,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" Click="btn_ho4_Click"/>
+
+
+        <!--Haus rechts-->
+
+        <Ellipse x:Name="hr1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="609,342,0,0" Stroke="#FFF01616" VerticalAlignment="Top" Width="37" RenderTransformOrigin="0.538,-0.673"/>
+        <Button x:Name="btn_hr1" Content="Button" HorizontalAlignment="Left" Margin="609,342,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" Click="btn_hr1_Click"/>
+
+        <Ellipse x:Name="hr2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="544,342,0,0" Stroke="#FFF01616" VerticalAlignment="Top" Width="37" RenderTransformOrigin="0.538,-0.673"/>
+        <Button x:Name="btn_hr2" Content="Button" HorizontalAlignment="Left" Margin="544,342,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" Click="btn_hr2_Click"/>
+
+        <Ellipse x:Name="hr3" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="482,342,0,0" Stroke="#FFF01616" VerticalAlignment="Top" Width="37" RenderTransformOrigin="0.538,-0.673"/>
+        <Button x:Name="btn_hr3" Content="Button" HorizontalAlignment="Left" Margin="482,342,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" Click="btn_hr3_Click"/>
+
+        <Ellipse x:Name="hr4" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="416,342,0,0" Stroke="#FFF01616" VerticalAlignment="Top" Width="37" RenderTransformOrigin="0.538,-0.673"/>
+        <Button x:Name="btn_hr4" Content="Button" HorizontalAlignment="Left" Margin="416,342,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" Click="btn_hr4_Click"/>
+
+
+        <!--Base unten-->
+
+        <Ellipse x:Name="bu1" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="21,665,0,0" Stroke="Yellow" VerticalAlignment="Top" Width="37" RenderTransformOrigin="-0.128,0.56" StrokeThickness="2"/>
+        <Button x:Name="btn_bu1" Content="Button" HorizontalAlignment="Left" Margin="21,665,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" />
+
+        <Ellipse x:Name="bu2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="21,610,0,0" Stroke="Yellow" VerticalAlignment="Top" Width="37" RenderTransformOrigin="-0.128,0.56" StrokeThickness="2"/>
+        <Button x:Name="btn_bu2" Content="Button" HorizontalAlignment="Left" Margin="21,610,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" />
+
+        <Ellipse x:Name="bu3" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="80,610,0,0" Stroke="Yellow" VerticalAlignment="Top" Width="37" RenderTransformOrigin="-0.128,0.56" StrokeThickness="2"/>
+        <Button x:Name="btn_bu3" Content="Button" HorizontalAlignment="Left" Margin="80,610,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" />
+
+        <Ellipse x:Name="bu4" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="80,665,0,0" Stroke="Yellow" VerticalAlignment="Top" Width="37" RenderTransformOrigin="-0.128,0.56" StrokeThickness="2"/>
+        <Button x:Name="btn_bu4" Content="Button" HorizontalAlignment="Left" Margin="80,665,0,0" VerticalAlignment="Top" Width="37" Height="35" Opacity="0" Cursor="Hand" />
+
+
+        <!--Base links-->
+
+        <Ellipse x:Name="bl1" Fill="White" HorizontalAlignment="Left" Height="35" Margin="23,21,0,0" Stroke="#FF1BC909" VerticalAlignment="Top" Width="37" RenderTransformOrigin="-0.128,0.56" StrokeThickness="2"/>
+        <Button x:Name="btn_bl1" Content="Button" HorizontalAlignment="Left" Margin="22,21,0,0" VerticalAlignment="Top" Width="38" Height="35" Opacity="0" Cursor="Hand" />
+
+        <Ellipse x:Name="bl2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="85,21,0,0" Stroke="#FF1BC909" VerticalAlignment="Top" Width="37" RenderTransformOrigin="-0.128,0.56" StrokeThickness="2"/>
+        <Button x:Name="btn_bl2" Content="Button" HorizontalAlignment="Left" Margin="85,21,0,0" VerticalAlignment="Top" Width="38" Height="35" Opacity="0" Cursor="Hand" />
+
+        <Ellipse x:Name="bl3" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="85,83,0,0" Stroke="#FF1BC909" VerticalAlignment="Top" Width="37" RenderTransformOrigin="-0.128,0.56" StrokeThickness="2"/>
+        <Button x:Name="btn_bl3" Content="Button" HorizontalAlignment="Left" Margin="84,83,0,0" VerticalAlignment="Top" Width="38" Height="35" Opacity="0" Cursor="Hand" />
+
+        <Ellipse x:Name="bl4" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="23,83,0,0" Stroke="#FF1BC909" VerticalAlignment="Top" Width="37" RenderTransformOrigin="-0.128,0.56" StrokeThickness="2"/>
+        <Button x:Name="btn_bl4" Content="Button" HorizontalAlignment="Left" Margin="22,83,0,0" VerticalAlignment="Top" Width="38" Height="35" Opacity="0" Cursor="Hand" />
+
+
+        <!--Base oben-->
+
+        <Ellipse x:Name="bo1" Fill="White" HorizontalAlignment="Left" Height="35" Margin="683,21,0,0" Stroke="#FF2027B9" VerticalAlignment="Top" Width="37" RenderTransformOrigin="-0.128,0.56" StrokeThickness="2"/>
+        <Button x:Name="btn_bo1" Content="Button" HorizontalAlignment="Left" Margin="682,21,0,0" VerticalAlignment="Top" Width="38" Height="35" Opacity="0" Cursor="Hand" />
+
+        <Ellipse x:Name="bo2" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="683,83,0,0" Stroke="#FF2027B9" VerticalAlignment="Top" Width="37" RenderTransformOrigin="-0.128,0.56" StrokeThickness="2"/>
+        <Button x:Name="btn_bo2" Content="Button" HorizontalAlignment="Left" Margin="683,83,0,0" VerticalAlignment="Top" Width="38" Height="35" Opacity="0" Cursor="Hand" />
+
+        <Ellipse x:Name="bo3" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="623,83,0,0" Stroke="#FF2027B9" VerticalAlignment="Top" Width="37" RenderTransformOrigin="-0.128,0.56" StrokeThickness="2"/>
+        <Button x:Name="btn_bo3" Content="Button" HorizontalAlignment="Left" Margin="623,83,0,0" VerticalAlignment="Top" Width="38" Height="35" Opacity="0" Cursor="Hand" />
+
+        <Ellipse x:Name="bo4" Fill="White" HorizontalAlignment="Left" Height="35" Margin="623,21,0,0" Stroke="#FF2027B9" VerticalAlignment="Top" Width="37" RenderTransformOrigin="-0.128,0.56" StrokeThickness="2"/>
+        <Button x:Name="btn_bo4" Content="Button" HorizontalAlignment="Left" Margin="623,21,0,0" VerticalAlignment="Top" Width="38" Height="35" Opacity="0" Cursor="Hand" />
+
+
+        <!--Base rechts-->
+
+        <Ellipse x:Name="br1" Fill="White" HorizontalAlignment="Left" Height="35" Margin="683,665,0,0" Stroke="#FFF01616" VerticalAlignment="Top" Width="37" RenderTransformOrigin="-0.128,0.56" StrokeThickness="2"/>
+        <Button x:Name="btn_br1" Content="Button" HorizontalAlignment="Left" Margin="683,665,0,0" VerticalAlignment="Top" Width="38" Height="35" Opacity="0" Cursor="Hand" />
+
+        <Ellipse x:Name="br2" Fill="White" HorizontalAlignment="Left" Height="35" Margin="623,665,0,0" Stroke="#FFF01616" VerticalAlignment="Top" Width="37" RenderTransformOrigin="-0.128,0.56" StrokeThickness="2"/>
+        <Button x:Name="btn_br2" Content="Button" HorizontalAlignment="Left" Margin="622,665,0,0" VerticalAlignment="Top" Width="38" Height="35" Opacity="0" Cursor="Hand" />
+
+        <Ellipse x:Name="br3" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="35" Margin="623,610,0,0" Stroke="#FFF01616" VerticalAlignment="Top" Width="37" RenderTransformOrigin="-0.128,0.56" StrokeThickness="2"/>
+        <Button x:Name="btn_br3" Content="Button" HorizontalAlignment="Left" Margin="623,610,0,0" VerticalAlignment="Top" Width="38" Height="35" Opacity="0" Cursor="Hand" />
+
+        <Ellipse x:Name="br4" Fill="White" HorizontalAlignment="Left" Height="35" Margin="683,610,0,0" Stroke="#FFF01616" VerticalAlignment="Top" Width="37" RenderTransformOrigin="-0.128,0.56" StrokeThickness="2"/>
+        <Button x:Name="btn_br4" Content="Button" HorizontalAlignment="Left" Margin="682,610,0,0" VerticalAlignment="Top" Width="38" Height="35" Opacity="0" Cursor="Hand"/>
+
+        <!--Buttons-->
+        <Button x:Name="btn_wuerfeln" Content="Würfeln" HorizontalAlignment="Left" Margin="842,395,0,0" VerticalAlignment="Top" Width="117" Height="55" FontSize="21.333" Click="btn_wuerfeln_Click"/>
+        <Button x:Name="btn_neuesSpiel" Content="Neues Spiel" HorizontalAlignment="Left" Margin="901,41,0,0" VerticalAlignment="Top" Width="117" Height="35" FontSize="16" Click="btn_neuesSpiel_Click"/>
+
+        <!--Label-->
+        <Label x:Name="lbl_wurfErg" Content="WurfErg" HorizontalAlignment="Left" Margin="842,315,0,0" VerticalAlignment="Top" Height="62" Width="117" FontSize="29.333" Cursor="Arrow"/>
+        <Label x:Name="lbl_SpielerU" Content="Spielern. unten" HorizontalAlignment="Left" Margin="22,575,0,0" VerticalAlignment="Top" Width="94" Cursor="Arrow"/>
+        <Label x:Name="lbl_SpielerLi" Content="Spielern li" HorizontalAlignment="Left" Margin="22,123,0,0" VerticalAlignment="Top" Width="94" Cursor="Arrow"/>
+        <Label x:Name="lbl_SpielerO" Content="Spielern o" HorizontalAlignment="Left" Margin="626,123,0,0" VerticalAlignment="Top" Width="94" Cursor="Arrow"/>
+        <Label x:Name="lbl_SpielerRe" Content="Spielern re" HorizontalAlignment="Left" Margin="626,575,0,0" VerticalAlignment="Top" Width="94" Cursor="Arrow"/>
+        <Label x:Name="lbl_AmZug" Content="Am Zug" HorizontalAlignment="Left" Margin="856,154,0,0" VerticalAlignment="Top" Width="172" FontSize="18.667"/>
+
+
+    </Grid>
+</Window>

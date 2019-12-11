@@ -1,0 +1,64 @@
+C:\Users\SR47_6\Desktop\GUI_Spiel\GUI_Spiel\bin\Debug\GUI_Spiel.exe.config
+C:\Users\SR47_6\Desktop\GUI_Spiel\GUI_Spiel\bin\Debug\GUI_Spiel.exe
+C:\Users\SR47_6\Desktop\GUI_Spiel\GUI_Spiel\bin\Debug\GUI_Spiel.pdb
+C:\Users\SR47_6\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel.csprojResolveAssemblyReference.cache
+C:\Users\SR47_6\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\MainWindow.g.cs
+C:\Users\SR47_6\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\App.g.cs
+C:\Users\SR47_6\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel_MarkupCompile.cache
+C:\Users\SR47_6\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel_MarkupCompile.lref
+C:\Users\SR47_6\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\MainWindow.baml
+C:\Users\SR47_6\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel.g.resources
+C:\Users\SR47_6\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel.Properties.Resources.resources
+C:\Users\SR47_6\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel.csproj.GenerateResource.Cache
+C:\Users\SR47_6\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel.exe
+C:\Users\SR47_6\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel.pdb
+C:\Users\SR47_6\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\NeuesSpiel.g.cs
+C:\Users\SR47_6\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\NeuesSpiel.baml
+C:\Users\sr47_12\Desktop\GUI_Spiel\GUI_Spiel\bin\Debug\GUI_Spiel.exe.config
+C:\Users\sr47_12\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel.exe
+C:\Users\sr47_12\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel.pdb
+C:\Users\sr47_12\Desktop\GUI_Spiel\GUI_Spiel\bin\Debug\GUI_Spiel.exe
+C:\Users\sr47_12\Desktop\GUI_Spiel\GUI_Spiel\bin\Debug\GUI_Spiel.pdb
+C:\Users\sr47_12\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel.csprojResolveAssemblyReference.cache
+C:\Users\sr47_12\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\MainWindow.g.cs
+C:\Users\sr47_12\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\NeuesSpiel.g.cs
+C:\Users\sr47_12\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\App.g.cs
+C:\Users\sr47_12\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel_MarkupCompile.cache
+C:\Users\sr47_12\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel_MarkupCompile.lref
+C:\Users\sr47_12\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\MainWindow.baml
+C:\Users\sr47_12\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\NeuesSpiel.baml
+C:\Users\sr47_12\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel.g.resources
+C:\Users\sr47_12\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel.Properties.Resources.resources
+C:\Users\sr47_12\Desktop\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel.csproj.GenerateResource.Cache
+C:\Kurse\C# Programs\GUI_Spiel\GUI_Spiel\bin\Debug\GUI_Spiel.exe.config
+C:\Kurse\C# Programs\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel.exe
+C:\Kurse\C# Programs\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel.pdb
+C:\Kurse\C# Programs\GUI_Spiel\GUI_Spiel\bin\Debug\GUI_Spiel.exe
+C:\Kurse\C# Programs\GUI_Spiel\GUI_Spiel\bin\Debug\GUI_Spiel.pdb
+C:\Kurse\C# Programs\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel.csprojResolveAssemblyReference.cache
+C:\Kurse\C# Programs\GUI_Spiel\GUI_Spiel\obj\Debug\MainWindow.g.cs
+C:\Kurse\C# Programs\GUI_Spiel\GUI_Spiel\obj\Debug\NeuesSpiel.g.cs
+C:\Kurse\C# Programs\GUI_Spiel\GUI_Spiel\obj\Debug\App.g.cs
+C:\Kurse\C# Programs\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel_MarkupCompile.cache
+C:\Kurse\C# Programs\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel_MarkupCompile.lref
+C:\Kurse\C# Programs\GUI_Spiel\GUI_Spiel\obj\Debug\MainWindow.baml
+C:\Kurse\C# Programs\GUI_Spiel\GUI_Spiel\obj\Debug\NeuesSpiel.baml
+C:\Kurse\C# Programs\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel.g.resources
+C:\Kurse\C# Programs\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel.Properties.Resources.resources
+C:\Kurse\C# Programs\GUI_Spiel\GUI_Spiel\obj\Debug\GUI_Spiel.csproj.GenerateResource.Cache
+G:\MEGAsync\Atos\Duales Studium\Theoriephase\Studium\5. Semester\Software Engineering\GUI_Spiel\bin\Debug\GUI_Spiel.exe.config
+G:\MEGAsync\Atos\Duales Studium\Theoriephase\Studium\5. Semester\Software Engineering\GUI_Spiel\bin\Debug\GUI_Spiel.exe
+G:\MEGAsync\Atos\Duales Studium\Theoriephase\Studium\5. Semester\Software Engineering\GUI_Spiel\bin\Debug\GUI_Spiel.pdb
+G:\MEGAsync\Atos\Duales Studium\Theoriephase\Studium\5. Semester\Software Engineering\GUI_Spiel\obj\Debug\GUI_Spiel.csprojAssemblyReference.cache
+G:\MEGAsync\Atos\Duales Studium\Theoriephase\Studium\5. Semester\Software Engineering\GUI_Spiel\obj\Debug\MainWindow.g.cs
+G:\MEGAsync\Atos\Duales Studium\Theoriephase\Studium\5. Semester\Software Engineering\GUI_Spiel\obj\Debug\NeuesSpiel.g.cs
+G:\MEGAsync\Atos\Duales Studium\Theoriephase\Studium\5. Semester\Software Engineering\GUI_Spiel\obj\Debug\App.g.cs
+G:\MEGAsync\Atos\Duales Studium\Theoriephase\Studium\5. Semester\Software Engineering\GUI_Spiel\obj\Debug\GUI_Spiel_MarkupCompile.cache
+G:\MEGAsync\Atos\Duales Studium\Theoriephase\Studium\5. Semester\Software Engineering\GUI_Spiel\obj\Debug\GUI_Spiel_MarkupCompile.lref
+G:\MEGAsync\Atos\Duales Studium\Theoriephase\Studium\5. Semester\Software Engineering\GUI_Spiel\obj\Debug\MainWindow.baml
+G:\MEGAsync\Atos\Duales Studium\Theoriephase\Studium\5. Semester\Software Engineering\GUI_Spiel\obj\Debug\NeuesSpiel.baml
+G:\MEGAsync\Atos\Duales Studium\Theoriephase\Studium\5. Semester\Software Engineering\GUI_Spiel\obj\Debug\GUI_Spiel.g.resources
+G:\MEGAsync\Atos\Duales Studium\Theoriephase\Studium\5. Semester\Software Engineering\GUI_Spiel\obj\Debug\GUI_Spiel.Properties.Resources.resources
+G:\MEGAsync\Atos\Duales Studium\Theoriephase\Studium\5. Semester\Software Engineering\GUI_Spiel\obj\Debug\GUI_Spiel.csproj.GenerateResource.cache
+G:\MEGAsync\Atos\Duales Studium\Theoriephase\Studium\5. Semester\Software Engineering\GUI_Spiel\obj\Debug\GUI_Spiel.exe
+G:\MEGAsync\Atos\Duales Studium\Theoriephase\Studium\5. Semester\Software Engineering\GUI_Spiel\obj\Debug\GUI_Spiel.pdb
